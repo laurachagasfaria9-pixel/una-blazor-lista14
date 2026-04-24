@@ -33,3 +33,5 @@ Além disso, a estrutura visual segue padrões conhecidos, reduzindo a necessida
 
 
 Além disso, a estrutura visual segue padrões conhecidos, reduzindo a necessidade de aprendizado e melhorando a experiência do usuário.
+ ## sistema
+<img width="1317" height="587" alt="projeto2" src="https://github.com/user-attachments/assets/e1574efc-c213-4a23-b2ba-6c3fe9d9d8c3" />
